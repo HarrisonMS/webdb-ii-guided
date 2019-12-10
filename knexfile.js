@@ -12,7 +12,7 @@ module.exports = {
       directory: './data/migrations' // will be created automatically
     },
     seeds: {
-      directory: './data/migrations'// will also be created automatically
+      directory: './data/seeds'// will also be created automatically
     }
   },
 };
